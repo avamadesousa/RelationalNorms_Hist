@@ -1,10 +1,12 @@
 # Relational Norms Across History
 
-Data and analysis code for a study of how relational norms — care, hierarchy, transaction, and
-mating — have shifted over the 20th and 21st centuries in American and Chinese political discourse.
+Data and analysis code for a study of how discourse surrounding 4 coopeartive functions
+(care, hierarchy, transaction, and mating) (see Earp et al., 2021, 2026; Bugental 2000) have shifted
+overall, and in the context of specific relationships (i.e. relational norms),
+over the 20th and 21st centuries in American and Chinese political discourse.
 Sentence embeddings are used to score U.S. Congressional speeches and China's People's Daily
 newspaper against descriptions of each cooperative function, building annual trajectories that are
-then related to historical measures of individualism, collectivism, tightness, and looseness via
+then related to historical measures of individualism, collectivism, tightness, and looseness with
 Granger causality and ARIMAX models.
 
 ## Contents
