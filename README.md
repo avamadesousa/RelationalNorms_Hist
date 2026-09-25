@@ -19,12 +19,9 @@ Granger causality and ARIMAX models.
 
 ## Data sources
 
-This project builds on two prior corpora and, for China, the measurement approach that produced it:
-
-- China's People's Daily corpus, and the "Effort"/"Efficiency" cosine-similarity approach this
-  project's own scoring is methodologically modeled on: A. X. Chen, S. Sun, H. Yu, Moral attitudes
+- China's People's Daily corpus: A. X. Chen, S. Sun, H. Yu, Moral attitudes
   towards effort and efficiency: a comparison between American and Chinese history. *Humanit. Soc.
-  Sci. Commun.* 11, 1–14 (2024). Their own repository has related materials worth checking too.
+  Sci. Commun.* 11, 1–14 (2024). Their own repository has related materials worth checking too as we use a very similar method.
 - The U.S. Congressional Record corpus: S. T. Aroyehun, et al., Computational analysis of US
   congressional speeches reveals a shift from evidence to intuition. *Nat. Hum. Behav.* 9, 1122–1133
   (2025).
