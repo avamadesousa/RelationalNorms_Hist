@@ -1,0 +1,33 @@
+function,version,language,sentence
+care,1,English,"Giving or receiving support based on need, without creating a debt"
+care,2,English,Protecting another person's well-being through attentive and reliable support
+care,3,English,Giving practical or emotional help without expecting repayment in return
+care,4,English,"Providing dependable, unconditional assistance"
+care,1,Chinese,根据需求给出或接受帮助和支持，不因此产生人情债
+care,2,Chinese,通过关切的和值得信赖的支持，保护另一个人的福祉
+care,3,Chinese,给予实践性的或情感性的支持，而不计较回报
+care,4,Chinese,提供值得信赖的、不讲条件的协助
+hierarchy,1,English,Coordinating behavior between people with unequal authority over one another
+hierarchy,2,English,Following established leadership roles when organizing shared behavior
+hierarchy,3,English,"Organizing collective action according to rank, status, and responsibility"
+hierarchy,4,English,Exercising greater decision-making authority over another person because of one's higher rank or position
+hierarchy,1,Chinese,在权威、地位不平等的人之间协调行动
+hierarchy,2,Chinese,在有组织的协同行动中，遵从已确立的领导角色
+hierarchy,3,Chinese,根据级别、地位的高低和职责的不同来组织集体行为
+hierarchy,4,Chinese,因职级或职位较高，而对他人拥有更大的决策权。
+transaction,1,English,Balancing mutual benefits by keeping track of who owes what to whom
+transaction,2,English,"Keeping cooperation fair through reciprocity, repayment, and balanced exchange"
+transaction,3,English,"Coordinating mutual gain by tracking contributions, obligations, and repayment"
+transaction,4,English,Exchanging benefits in proportion to what each person contributes
+transaction,1,Chinese,通过记录谁欠谁什么来平衡相互的利益
+transaction,2,Chinese,通过互惠互利、偿付和对等的交换来维持合作的公平性
+transaction,3,Chinese,通过记录各自的贡献、职责和偿付来协调相互的利益
+transaction,4,Chinese,按照每人的贡献大小来分配利益
+mating,1,English,Establishing and maintaining a sexual partnership
+mating,2,English,Forming and sustaining a committed sexual relationship with another person
+mating,3,English,Attracting and retaining a partner for an ongoing sexual relationship
+mating,4,English,Creating and preserving a stable romantic and sexual partnership
+mating,1,Chinese,建立并维持性关系
+mating,2,Chinese,寻找并吸引一个可以发生性行为的性伴侣。
+mating,3,Chinese,与固定伴侣维持持续的性接触和肉体亲密关系。
+mating,4,Chinese,通过择偶和性关系来繁衍后代、延续血脉。
