@@ -13,10 +13,9 @@ Granger causality and ARIMAX models.
 
 - **`code/`** — the analysis pipeline: corpus preprocessing, anchor-sentence embedding,
   cosine-similarity scoring, cultural-value/GDP covariates, Bayesian change point detection, and the
-  Granger causality/ARIMAX analysis. See `code/README.md` for the full breakdown and
-  `code/MANIFEST.tsv` for each script's exact provenance.
+  Granger causality/ARIMAX analysis. 
 - **`data/`** — the external source data the covariate scripts read: U.S. and Chinese Google Books
-  Ngram cultural-value indices and Maddison GDP per capita. See `data/README.md`.
+  Ngram cultural-value indices and Maddison GDP per capita. 
 
 ## Data sources
 
