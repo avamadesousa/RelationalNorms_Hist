@@ -87,3 +87,4 @@ with open(f"{HERE}/COVARIATE_PROVENANCE.txt", "w") as f:
     f.write(f"       year-over-year growth (OWID mirror, {DATA}/gdp_maddison_2023_owid.csv);\n")
     f.write(f"       done this way to avoid M2023's China-2018 level rebasing (+22%).\n")
 print("[wrote COVARIATE_PROVENANCE.txt]")
+ 

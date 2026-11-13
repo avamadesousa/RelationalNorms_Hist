@@ -311,3 +311,4 @@ if (!is.null(arimax_all)) {
 }
 
 cat("\nDone. Outputs in", OUT, "\n")
+ 

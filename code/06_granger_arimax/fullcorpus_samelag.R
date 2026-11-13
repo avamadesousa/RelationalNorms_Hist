@@ -15,8 +15,7 @@ DIRECTIONS <- c("culture_to_domain", "domain_to_culture")
 CHINA_PREVALENCE_2019 <- read.csv(file.path(DATA, "china_cultural_values_and_gdp_2019.csv"))
 
 # China's score is read directly from FullCorpusScores/ (03_scoring/'s own output); its
-# indi/coll/tight/loose/gdp come from CHINA_PREVALENCE_2019, not from a current-vintage Ngram
-# panel (see the header comment above and 08_granger_arimax/README.md). US reads its score and
+# indi/coll/tight/loose/gdp come from chen et al 2024. US reads its score and
 # covariates together from FullCorpusTimeSeriesCovariates/, built by 04_cultural_covariates/.
 load_cell <- function(corpus, dom) {
   if (corpus == "Chinese") {
@@ -325,3 +324,4 @@ if (!is.null(arimax_all)) {
 }
 
 cat("\nDone. Outputs in", OUT, "\n")
+ 
